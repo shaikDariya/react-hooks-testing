@@ -1,5 +1,4 @@
 # react-hooks-testing
- usePrevious is a custom hook.  
  
  ```
  export const usePrevious = value => {
